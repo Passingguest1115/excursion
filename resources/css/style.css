@@ -21,6 +21,12 @@ h3{
   text-align: center;
   color: gray;
 }
+h4{
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+  color: gray;
+}
 a {
   color: aquamarine;
   font-size: 16px;
@@ -33,5 +39,8 @@ text-align: center;
 }
 
 .camp{
+  text-align: center;
+}
+.phone{
   text-align: center;
 }
