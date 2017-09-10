@@ -3,12 +3,24 @@
 }
 h1{
   font-family: Verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
   text-align: center;
 }
-
+h2{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+h3{
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+}
 a {
   color: aquamarine;
   font-size: 16px;
@@ -18,4 +30,8 @@ a {
 
 .video{
 text-align: center;
+}
+
+.camp{
+  text-align: center;
 }
